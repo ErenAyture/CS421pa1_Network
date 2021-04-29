@@ -1,0 +1,7 @@
+HTTP/1.1 206 Partial Content
+Content-Range: bytes 0-100/6488394
+Content-Length: 100
+
+The Project Gutenberg EBook of The Adventures of Sherlock Holmes
+by Sir Arthur Conan Doyle
+(#15 in o
